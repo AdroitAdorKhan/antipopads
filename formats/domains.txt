@@ -20,8 +20,8 @@
 # Format: domains
 # Version: 21.09.267
 # Release: 267
-# Entries: 5,804
-# Updated: Fri, 24 Sep 21 00:38:02 +06
+# Entries: 5,810
+# Updated: Fri, 24 Sep 21 00:50:41 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -421,6 +421,7 @@ blacurlik.com
 blastcahs.com
 blatwalm.com
 blbhqqdfmvfsu.com
+blizzrubier.com
 blogger2020.com
 bludwan.com
 bluemaulpuffs.com
@@ -490,6 +491,7 @@ bukash2jf8jfpw09.com
 bultigho.net
 bundhammam.com
 bursagarc.com
+burydibase.com
 busfarmum.com
 busguyspec.com
 butalksuw9dj10.com
@@ -2744,6 +2746,7 @@ pkldrgupis.com
 pkmkkjwknvf.com
 pkytbidauolavq.com
 plardi.com
+plasomeleanly.com
 pldsafpulgnw.com
 plkyjbew.com
 plutothejewel.com
@@ -3127,6 +3130,7 @@ rolrotoo.net
 roogrujy.net
 roolgage.com
 roredi.com
+rortyshavian.com
 rotabol.com
 rotdubboy.com
 rotumal.com
@@ -3613,6 +3617,7 @@ totoroclair.com
 touphipt.com
 touroumu.com
 tovsmortiminanri.gq
+towaikidney.com
 toybahyn.com
 toywafdduceezo.com
 tozoruaon.com
@@ -4030,6 +4035,7 @@ winnerkur.com
 wipowaxe.com
 wirenth.com
 wiseezab.com
+witherduteous.com
 wityamdog.com
 wizhumpgyros.com
 wizliebeg.com
