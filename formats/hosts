@@ -20,8 +20,8 @@
 # Format: hosts
 # Version: 21.09.267
 # Release: 267
-# Entries: 5,810
-# Updated: Fri, 24 Sep 21 00:50:41 +06
+# Entries: 5,814
+# Updated: Fri, 24 Sep 21 00:55:06 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -3054,6 +3054,7 @@
 0.0.0.0 refyewdye.com
 0.0.0.0 refyumado.com
 0.0.0.0 reginasfreyr.com
+0.0.0.0 registry.srna.net
 0.0.0.0 regrcurie.com
 0.0.0.0 reiqwxxd.com
 0.0.0.0 rejbqhagczm.com
@@ -3221,6 +3222,7 @@
 0.0.0.0 scarofnght.com
 0.0.0.0 scbywiqkm.com
 0.0.0.0 scillathemons.com
+0.0.0.0 scrimertigris.com
 0.0.0.0 scripsjeermint.com
 0.0.0.0 scrollhandful.com
 0.0.0.0 scswlgxttvekd.com
@@ -5713,6 +5715,7 @@
 0.0.0.0 yonomastara.com
 0.0.0.0 yonsandileer.com
 0.0.0.0 yookcasula.com
+0.0.0.0 yookteman.com
 0.0.0.0 yoqpnkhl.com
 0.0.0.0 youearrid.com
 0.0.0.0 yougotacheck.com
@@ -5768,6 +5771,7 @@
 0.0.0.0 zikroarg.com
 0.0.0.0 zionismscarrow.com
 0.0.0.0 ziphoumt.net
+0.0.0.0 ziraskunked.com
 0.0.0.0 zirdrax.com
 0.0.0.0 zjkypuacaawx.com
 0.0.0.0 zjllvkfa.com
