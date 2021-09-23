@@ -20,8 +20,8 @@
 # Format: domains
 # Version: 21.09.266
 # Release: 266
-# Entries: 5,700
-# Updated: Thu, 23 Sep 21 18:17:32 +06
+# Entries: 5,714
+# Updated: Thu, 23 Sep 21 19:32:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -81,6 +81,7 @@ ad.propellerads.com
 adsemirate.com
 adstarget.net
 adsvids.com
+adverdirect.com
 advmaiotg.com
 aebadu.com
 a.eegookiz.com
@@ -1046,6 +1047,7 @@ ezpuqqahvr.com
 ezrvmxshalr.com
 ezzxpepmllgdw.com
 fadsaltshey.com
+fadverdirect.com
 faestara.com
 fagaxesea.com
 faglollstwo.com
@@ -1191,6 +1193,7 @@ fryniporc.com
 fryoresbawl.com
 frytoyrub.com
 frzynewnpg.com
+fsalfrwdr.com
 fsisolpouupevs.com
 fsitel.com
 fsrdrurl.com
@@ -2969,6 +2972,7 @@ qzgbhuelut.com
 qziqnfwzk.com
 qzlglizfy.com
 qzownvqgn.com
+radverdirect.com
 ragsfrynotary.com
 rambibelk.com
 ramrawere.com
@@ -3100,6 +3104,12 @@ rpqknedxr.com
 rprygapywrk.com
 rqusuqakwyejjn.com
 rrriyoomil.com
+rsafrd.com
+rsafrwd.com
+rsafrwdr.com
+rsalcau.com
+rsalchk.com
+rsaltsjt.com
 rsviqjzhvubz.com
 rsyokbyvawav.com
 rtbpop.com
@@ -4312,6 +4322,7 @@ www.ezeraf.com
 www.ezpuqqahvr.com
 www.ezrvmxshalr.com
 www.ezzxpepmllgdw.com
+www.fadverdirect.com
 www.faithaiy.com
 www.faqrdrkwdhqgug.com
 www.fatrjjcm.com
@@ -4352,6 +4363,7 @@ www.fqjgxtyaqftpt.com
 www.frpguidmetp.com
 www.frpiksdeygy.com
 www.frshueaxf.com
+www.fsalfrwdr.com
 www.fsisolpouupevs.com
 www.fsrdrurl.com
 www.fsznrodyocq.com
@@ -4941,6 +4953,7 @@ www.qzgbhuelut.com
 www.qziqnfwzk.com
 www.qzlglizfy.com
 www.qzownvqgn.com
+www.radverdirect.com
 www.rbnwacsf.com
 www.rbyzvdkm.com
 www.rcblkkhfvrxyn.com
@@ -4967,6 +4980,7 @@ www.rpjzlykhkdc.com
 www.rprygapywrk.com
 www.rqusuqakwyejjn.com
 www.rrriyoomil.com
+www.rsafrwdr.com
 www.rsyokbyvawav.com
 www.rtbpopd.com
 www.rtlggubycdpgjt.com

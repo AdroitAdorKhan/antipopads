@@ -20,8 +20,8 @@
 # Format: hosts
 # Version: 21.09.266
 # Release: 266
-# Entries: 5,700
-# Updated: Thu, 23 Sep 21 18:17:32 +06
+# Entries: 5,714
+# Updated: Thu, 23 Sep 21 19:32:08 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -81,6 +81,7 @@
 0.0.0.0 adsemirate.com
 0.0.0.0 adstarget.net
 0.0.0.0 adsvids.com
+0.0.0.0 adverdirect.com
 0.0.0.0 advmaiotg.com
 0.0.0.0 aebadu.com
 0.0.0.0 a.eegookiz.com
@@ -1046,6 +1047,7 @@
 0.0.0.0 ezrvmxshalr.com
 0.0.0.0 ezzxpepmllgdw.com
 0.0.0.0 fadsaltshey.com
+0.0.0.0 fadverdirect.com
 0.0.0.0 faestara.com
 0.0.0.0 fagaxesea.com
 0.0.0.0 faglollstwo.com
@@ -1191,6 +1193,7 @@
 0.0.0.0 fryoresbawl.com
 0.0.0.0 frytoyrub.com
 0.0.0.0 frzynewnpg.com
+0.0.0.0 fsalfrwdr.com
 0.0.0.0 fsisolpouupevs.com
 0.0.0.0 fsitel.com
 0.0.0.0 fsrdrurl.com
@@ -2969,6 +2972,7 @@
 0.0.0.0 qziqnfwzk.com
 0.0.0.0 qzlglizfy.com
 0.0.0.0 qzownvqgn.com
+0.0.0.0 radverdirect.com
 0.0.0.0 ragsfrynotary.com
 0.0.0.0 rambibelk.com
 0.0.0.0 ramrawere.com
@@ -3100,6 +3104,12 @@
 0.0.0.0 rprygapywrk.com
 0.0.0.0 rqusuqakwyejjn.com
 0.0.0.0 rrriyoomil.com
+0.0.0.0 rsafrd.com
+0.0.0.0 rsafrwd.com
+0.0.0.0 rsafrwdr.com
+0.0.0.0 rsalcau.com
+0.0.0.0 rsalchk.com
+0.0.0.0 rsaltsjt.com
 0.0.0.0 rsviqjzhvubz.com
 0.0.0.0 rsyokbyvawav.com
 0.0.0.0 rtbpop.com
@@ -4312,6 +4322,7 @@
 0.0.0.0 www.ezpuqqahvr.com
 0.0.0.0 www.ezrvmxshalr.com
 0.0.0.0 www.ezzxpepmllgdw.com
+0.0.0.0 www.fadverdirect.com
 0.0.0.0 www.faithaiy.com
 0.0.0.0 www.faqrdrkwdhqgug.com
 0.0.0.0 www.fatrjjcm.com
@@ -4352,6 +4363,7 @@
 0.0.0.0 www.frpguidmetp.com
 0.0.0.0 www.frpiksdeygy.com
 0.0.0.0 www.frshueaxf.com
+0.0.0.0 www.fsalfrwdr.com
 0.0.0.0 www.fsisolpouupevs.com
 0.0.0.0 www.fsrdrurl.com
 0.0.0.0 www.fsznrodyocq.com
@@ -4941,6 +4953,7 @@
 0.0.0.0 www.qziqnfwzk.com
 0.0.0.0 www.qzlglizfy.com
 0.0.0.0 www.qzownvqgn.com
+0.0.0.0 www.radverdirect.com
 0.0.0.0 www.rbnwacsf.com
 0.0.0.0 www.rbyzvdkm.com
 0.0.0.0 www.rcblkkhfvrxyn.com
@@ -4967,6 +4980,7 @@
 0.0.0.0 www.rprygapywrk.com
 0.0.0.0 www.rqusuqakwyejjn.com
 0.0.0.0 www.rrriyoomil.com
+0.0.0.0 www.rsafrwdr.com
 0.0.0.0 www.rsyokbyvawav.com
 0.0.0.0 www.rtbpopd.com
 0.0.0.0 www.rtlggubycdpgjt.com

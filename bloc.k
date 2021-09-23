@@ -48,6 +48,7 @@ ad.propellerads.com
 adsemirate.com
 adstarget.net
 adsvids.com
+adverdirect.com
 aebadu.com
 a.eegookiz.com
 aetejxolo.com
@@ -930,6 +931,7 @@ ezpuqqahvr.com
 ezrvmxshalr.com
 ezzxpepmllgdw.com
 fadsaltshey.com
+fadverdirect.com
 faestara.com
 fagaxesea.com
 faglollstwo.com
@@ -1057,6 +1059,7 @@ fryirktan.com
 fryniporc.com
 fryoresbawl.com
 frytoyrub.com
+fsalfrwdr.com
 fsisolpouupevs.com
 fsitel.com
 fsrdrurl.com
@@ -2625,6 +2628,7 @@ qzgbhuelut.com
 qziqnfwzk.com
 qzlglizfy.com
 qzownvqgn.com
+radverdirect.com
 ragsfrynotary.com
 rambibelk.com
 ramrawere.com
@@ -2735,6 +2739,12 @@ rpjzlykhkdc.com
 rprygapywrk.com
 rqusuqakwyejjn.com
 rrriyoomil.com
+rsafrd.com
+rsafrwd.com
+rsafrwdr.com
+rsalcau.com
+rsalchk.com
+rsaltsjt.com
 rsyokbyvawav.com
 rtbpop.com
 rtbpopd.com
@@ -3862,6 +3872,7 @@ www.ezeraf.com
 www.ezpuqqahvr.com
 www.ezrvmxshalr.com
 www.ezzxpepmllgdw.com
+www.fadverdirect.com
 www.faithaiy.com
 www.faqrdrkwdhqgug.com
 www.fatrjjcm.com
@@ -3902,6 +3913,7 @@ www.fqjgxtyaqftpt.com
 www.frpguidmetp.com
 www.frpiksdeygy.com
 www.frshueaxf.com
+www.fsalfrwdr.com
 www.fsisolpouupevs.com
 www.fsrdrurl.com
 www.fsznrodyocq.com
@@ -4491,6 +4503,7 @@ www.qzgbhuelut.com
 www.qziqnfwzk.com
 www.qzlglizfy.com
 www.qzownvqgn.com
+www.radverdirect.com
 www.rbnwacsf.com
 www.rbyzvdkm.com
 www.rcblkkhfvrxyn.com
@@ -4517,6 +4530,7 @@ www.rpjzlykhkdc.com
 www.rprygapywrk.com
 www.rqusuqakwyejjn.com
 www.rrriyoomil.com
+www.rsafrwdr.com
 www.rsyokbyvawav.com
 www.rtbpopd.com
 www.rtlggubycdpgjt.com
@@ -5223,18 +5237,3 @@ zxdardwpsuf.com
 zxgroymagqu.com
 zxryytzesvn.com
 zyrjagscswahgz.com
-fadverdirect.com
-www.fadverdirect.com
-fadverdirect.com
-www.fsalfrwdr.com
-fsalfrwdr.com
-www.radverdirect.com
-www.rsafrwdr.com
-radverdirect.com
-rsafrwdr.com
-rsafrd.com
-adverdirect.com
-rsafrwd.com
-rsaltsjt.com
-rsalcau.com
-rsalchk.com
