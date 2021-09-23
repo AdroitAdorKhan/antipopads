@@ -139,6 +139,20 @@ sed -i 's/ *$//' $temp && sort $temp |uniq |tee > $whitelist
 rm -f $temp
 
 #-------------------------------------------------------------------------------#
+#--------------------------- B L A C K L I S T I N G ---------------------------#
+#-------------------------------------------------------------------------------#
+# Remove Headers & Comments
+sed '/#/d' -i $blocklist
+# Remove Blank/Empty Lines
+sed '/^$/d' -i $blocklist
+# Removes Whitespace
+cat $blocklist | tr -d '\r' >> $atemp
+# Sort, Remove Duplicate and Write
+sed -i 's/ *$//' $atemp && sort $atemp |uniq |tee > $blocklist
+# Clear Cache
+rm -f $atemp
+
+#-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
 #-------------------------------------------------------------------------------#
 { wget -qO- https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts; \
