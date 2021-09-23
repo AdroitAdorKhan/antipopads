@@ -20,8 +20,8 @@
 # Format: domains
 # Version: 21.09.266
 # Release: 266
-# Entries: 5,760
-# Updated: Thu, 23 Sep 21 22:13:22 +06
+# Entries: 5,765
+# Updated: Thu, 23 Sep 21 23:40:07 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -2719,6 +2719,7 @@ pkgebysm.com
 pkldrgupis.com
 pkmkkjwknvf.com
 pkytbidauolavq.com
+plardi.com
 pldsafpulgnw.com
 plkyjbew.com
 plutothejewel.com
@@ -3302,6 +3303,7 @@ slopjutfop.com
 slovakslarree.com
 slrviazqkilu.com
 sluhcvyzgd.com
+sma8clk.com
 smalltiberbridge.com
 smart2cnjuh34jb.com
 smistaufvyaodf.com
@@ -3610,6 +3612,7 @@ trytipemo.com
 tsaqimvbfiv.com
 tsarismslued.com
 tslomhfys.com
+tsuam.com
 tsyndolls.com
 tsztzjvpex.com
 ttchbosn.com
@@ -4892,6 +4895,7 @@ www.pkgebysm.com
 www.pkldrgupis.com
 www.pkmkkjwknvf.com
 www.pkytbidauolavq.com
+www.plardi.com
 www.plkyjbew.com
 www.pmsbarjy.com
 www.pnhdnlrzwu.com
@@ -5068,6 +5072,7 @@ www.sllsbgjfamxckn.com
 www.slomgvyfd.com
 www.slrviazqkilu.com
 www.sluhcvyzgd.com
+www.sma8clk.com
 www.smistaufvyaodf.com
 www.smjdkmvhar.com
 www.smjhzmln.com
