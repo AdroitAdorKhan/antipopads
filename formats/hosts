@@ -20,8 +20,8 @@
 # Format: hosts
 # Version: 21.09.266
 # Release: 266
-# Entries: 5,758
-# Updated: Thu, 23 Sep 21 22:01:50 +06
+# Entries: 5,760
+# Updated: Thu, 23 Sep 21 22:13:22 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -771,6 +771,7 @@
 0.0.0.0 dempeepi.com
 0.0.0.0 demurcobsoho.com
 0.0.0.0 denbeigemark.com
+0.0.0.0 denizlivitrin.com
 0.0.0.0 denseplatter.com
 0.0.0.0 denwusstu.gq
 0.0.0.0 depirsmandk5.com
@@ -4243,6 +4244,7 @@
 0.0.0.0 www.ddvqjnbt.com
 0.0.0.0 www.degrtdqvaansd.com
 0.0.0.0 www.dehtxweiq.com
+0.0.0.0 www.denizlivitrin.com
 0.0.0.0 www.denwusstu.gq
 0.0.0.0 www.deslncsiq.com
 0.0.0.0 www.detdtmkwcl.com
