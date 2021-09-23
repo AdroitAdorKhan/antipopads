@@ -20,8 +20,8 @@
 # Format: hosts
 # Version: 21.09.266
 # Release: 266
-# Entries: 3,141
-# Updated: Thu, 23 Sep 21 15:11:50 +06
+# Entries: 3,149
+# Updated: Thu, 23 Sep 21 15:17:58 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 # A N T I P O P A D S  B E G I N S
@@ -115,6 +115,7 @@
 :: anamaembush.com
 :: anandanudish.com
 :: anansycoses.com
+:: an.ayahtyros.com
 :: ancienslogoi.com
 :: ancjmfycf.com
 :: andriesshied.com
@@ -255,6 +256,7 @@
 :: betrustkelping.com
 :: betshucklean.com
 :: betuuvhozpylo.com
+:: bfbdfe97331363db.com
 :: bfezsiok.com
 :: bftrlhesrlfjp.com
 :: bgkxbknajdn.com
@@ -767,6 +769,7 @@
 :: fatrjjcm.com
 :: favillafarine.com
 :: faxlcahosa.com
+:: fbb099d8d87284a1.com
 :: fbbkavxqzy.com
 :: fbxnsabawjkylo.com
 :: fc5439b23d8e71dd.com
@@ -1160,6 +1163,7 @@
 :: iomppdwwmbvq.com
 :: ioredi.com
 :: ip232.ip-51-254-89.eu
+:: ip30.ip-51-195-11.eu
 :: ip42.ip-146-59-188.eu
 :: ipfmbexfdzb.com
 :: ipmbnqqaon.com
@@ -2555,6 +2559,7 @@
 :: trapsaminohut.com
 :: trclfonj.com
 :: trgdzkqsle.com
+:: triedecu.com
 :: trimmedyagi.com
 :: trixyapieces.com
 :: trodpigbays.com
@@ -2650,6 +2655,7 @@
 :: ukslphcgs.com
 :: ukvjkqhmkowc.com
 :: ukyyjicbqdx.com
+:: ulminicbawty.com
 :: ulngtppm.com
 :: ultimowraxle.com
 :: ululuridleys.com
@@ -2662,6 +2668,7 @@
 :: umyijmhalvbk.com
 :: unflamewandoo.com
 :: unflesholchi.com
+:: unrestgrits.com
 :: unsaferairn.com
 :: unyhjoehc.com
 :: uoijjkkkc.com
@@ -2851,6 +2858,7 @@
 :: whkesznbi.com
 :: whourgie.com
 :: whsepelmrnz.com
+:: widget.turbo-cdn.net
 :: widow5blackfr.com
 :: widvffyokrmlkk.com
 :: wifgutjpmqctrx.com
