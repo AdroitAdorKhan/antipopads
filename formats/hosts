@@ -20,8 +20,8 @@
 # Format: hosts
 # Version: 21.09.266
 # Release: 266
-# Entries: 2,694
-# Updated: Thu, 23 Sep 21 14:01:42 +06
+# Entries: 2,696
+# Updated: Thu, 23 Sep 21 14:16:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -629,6 +629,7 @@
 0.0.0.0 eyecurred.com
 0.0.0.0 eyevfswxtcij.com
 0.0.0.0 eypdcpzrvk.com
+0.0.0.0 ezeraf.com
 0.0.0.0 ezpuqqahvr.com
 0.0.0.0 ezrvmxshalr.com
 0.0.0.0 ezzxpepmllgdw.com
@@ -2482,6 +2483,7 @@
 0.0.0.0 wvpkoyjoq.com
 0.0.0.0 wwnrdqxo.com
 0.0.0.0 wwrpfevyca.com
+0.0.0.0 www.ezeraf.com
 0.0.0.0 wwyfcalkqahi.com
 0.0.0.0 wwzacuiecwaz.com
 0.0.0.0 wxbrdppfpr.com

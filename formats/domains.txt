@@ -20,8 +20,8 @@
 # Format: domains
 # Version: 21.09.266
 # Release: 266
-# Entries: 2,694
-# Updated: Thu, 23 Sep 21 14:01:42 +06
+# Entries: 2,696
+# Updated: Thu, 23 Sep 21 14:16:16 +06
 # RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
 # --------------------------------------------
 #
@@ -629,6 +629,7 @@ eyebinvex.com
 eyecurred.com
 eyevfswxtcij.com
 eypdcpzrvk.com
+ezeraf.com
 ezpuqqahvr.com
 ezrvmxshalr.com
 ezzxpepmllgdw.com
@@ -2482,6 +2483,7 @@ wvekalpmn.com
 wvpkoyjoq.com
 wwnrdqxo.com
 wwrpfevyca.com
+www.ezeraf.com
 wwyfcalkqahi.com
 wwzacuiecwaz.com
 wxbrdppfpr.com
