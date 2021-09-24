@@ -2,12 +2,12 @@
 #-------------------------------------------------------------------------------#
 #-------------------------- I N F O  &  L I C E N S E --------------------------#
 #-------------------------------------------------------------------------------#
-#                _   _                             _     _
-#     __ _ _ __ | |_(_)_ __   ___  _ __   __ _  __| |___| |
-#   / _` | '_ \| __| | '_ \ / _ \| '_ \ / _` |/ _` / __| |
-#  | (_| | | | | |_| | |_) | (_) | |_) | (_| | (_| \__ \_|
-#  \__,_|_| |_|\__|_| .__/ \___/| .__/ \__,_|\__,_|___(_)
-#                   |_|         |_|
+#
+#              __   __                             __         __
+#.---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----.
+#|  _  |     ||   _|  ||  _  |  _  |  _  |  _  |  _  ||__ --| __ |   _|  -__|
+#|___._|__|__||____|__||   __|_____|   __|___._|_____||_____||__||__| |_____|
+#                      |__|        |__|
 #
 # Author: adroitadorkhan
 # Usage: bash apa.sh
@@ -72,48 +72,46 @@ divider='------------------------------------------------------------' 2>/dev/nu
 dividerTiny="--------------------------------------------"
 
 headerLogo="#
-#              _   _                             _     _
-#   __ _ _ __ | |_(_)_ __   ___  _ __   __ _  __| |___| |
-#  / _  |  _ \| __| |  _ \ / _ \|  _ \ / _  |/ _  / __| |
-# | (_| | | | | |_| | |_) | (_) | |_) | (_| | (_| \__ \_|
-#  \__,_|_| |_|\__|_| .__/ \___/| .__/ \__,_|\__,_|___(_)
-#                   |_|         |_|
 #
-#      R        E        B        O        R        N
+#               __   __                             __         __
+# .---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----.
+# |  _  |     ||   _|  ||  _  |  _  |  _  |  _  |  _  ||__ --| __ |   _|  -__|
+# |___._|__|__||____|__||   __|_____|   __|___._|_____||_____||__||__| |_____|
+#                       |__|        |__|
+#
 # $dividerTiny
 #
 # $dividerTiny
 # P A C K  D E T A I L S
 # $dividerTiny
-# Title: antipopads! - reborn
+# Title: antipopads:re
 # Maintainer: Ador <mail@nayemador.com>
-# Description: block pesky pop ads.
-# Homepage: https://github.com/AdroitAdorKhan/antipopads
+# Description: block pesky malicious pop ads.
+# Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT"
 
 headerLogoAB="!
-!              _   _                             _     _
-!   __ _ _ __ | |_(_)_ __   ___  _ __   __ _  __| |___| |
-!  / _  |  _ \| __| |  _ \ / _ \|  _ \ / _  |/ _  / __| |
-! | (_| | | | | |_| | |_) | (_) | |_) | (_| | (_| \__ \_|
-!  \__,_|_| |_|\__|_| .__/ \___/| .__/ \__,_|\__,_|___(_)
-!                   |_|         |_|
 !
-!      R        E        B        O        R        N           N
+!               __   __                             __         __
+! .---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----.
+! |  _  |     ||   _|  ||  _  |  _  |  _  |  _  |  _  ||__ --| __ |   _|  -__|
+! |___._|__|__||____|__||   __|_____|   __|___._|_____||_____||__||__| |_____|
+!                       |__|        |__|
+!
 ! $dividerTiny
 !
 ! $dividerTiny
 ! P A C K  D E T A I L S
 ! $dividerTiny
-! Title: antipopads! - reborn
+! Title: antipopads:re
 ! Maintainer: Ador <mail@nayemador.com>
-! Description: block pesky pop ads.
-! Homepage: https://github.com/AdroitAdorKhan/antipopads
+! Description: block pesky malicious pop ads.
+! Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 ! License: MIT"
 
 buildVersion=$(date +%y.%m.%j)
 releaseVersion=$(date +%j)
-raw="https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats"
+raw="https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats"
 updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -e "# $dividerTiny\n# A N T I P O P A D S  E N D S\n# $dividerTiny" >> $footer
@@ -189,14 +187,13 @@ awk '$0="||"$0"^"' $file > $filter
 # Read Total Domain Number
 totaldomains=$(awk '!/^#/ && !/^$/{c++}END{print c}' $file | awk '{ len=length($0); res=""; for (i=0;i<=len;i++) { res=substr($0,len-i+1,1) res; if (i > 0 && i < len && i % 3 == 0) { res = "," res } }; print res }')
 # Echo Pack, Domains and Size
-echo -e $LB"!              _   _                             _     _   "$N
-echo -e $LB"!   __ _ _ __ | |_(_)_ __   ___  _ __   __ _  __| |___| |  "$N
-echo -e $LB"!  / _  |  _ \| __| |  _ \ / _ \|  _ \ / _  |/ _  / __| |  "$N
-echo -e $LB"! | (_| | | | | |_| | |_) | (_) | |_) | (_| | (_| \__ \_|  "$N
-echo -e $LB"!  \__,_|_| |_|\__|_| .__/ \___/| .__/ \__,_|\__,_|___(_)  "$N
-echo -e $LB"!                   |_|         |_|                        "$N
-echo -e $LB"!                                                           "$N
-echo -e $LB"!      R        E        B        O        R        N       "$N
+echo -e $LB"!                                                                             "$N
+echo -e $LB"!               __   __                             __         __             "$N
+echo -e $LB"! .---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----."$N
+echo -e $LB"! |  _  |     ||   _|  ||  _  |  _  |  _  |  _  |  _  ||__ --| __ |   _|  -__|"$N
+echo -e $LB"! |___._|__|__||____|__||   __|_____|   __|___._|_____||_____||__||__| |_____|"$N
+echo -e $LB"!                       |__|        |__|                                      "$N
+echo -e $LB"!                                                                             "$N
 echo -e $LB"! $dividerTiny"$N
 echo -e $LB"! B U I L D I N G  P A C K S"$N
 echo -e $LB"! $dividerTiny"$N
