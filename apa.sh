@@ -39,8 +39,8 @@ N='\033[0m'     # No Color
 date=$(date +%d.%m.%Y)
 fileDir=./formats
 oFileDir=./
-whitelist=unbloc.k
-blocklist=bloc.k
+whitelist=assets/unbloc.k
+blocklist=assets/bloc.k
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -69,7 +69,7 @@ divider='------------------------------------------------------------' 2>/dev/nu
 #-------------------------------------------------------------------------------#
 #----------------------------- FILL THE INFO HERE ------------------------------#
 #-------------------------------------------------------------------------------#
-dividerTiny="--------------------------------------------"
+dividerTiny="----------------------------------------------------------------------------"
 
 headerLogo="#
 #
@@ -90,7 +90,7 @@ headerLogo="#
 # Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT"
 
-headerLogoAB="!
+headerLogoAB="[Adblock Plus]
 !
 !               __   __                             __         __
 ! .---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----.
