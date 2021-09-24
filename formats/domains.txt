@@ -1,28 +1,27 @@
 #
-#              _   _                             _     _
-#   __ _ _ __ | |_(_)_ __   ___  _ __   __ _  __| |___| |
-#  / _  |  _ \| __| |  _ \ / _ \|  _ \ / _  |/ _  / __| |
-# | (_| | | | | |_| | |_) | (_) | |_) | (_| | (_| \__ \_|
-#  \__,_|_| |_|\__|_| .__/ \___/| .__/ \__,_|\__,_|___(_)
-#                   |_|         |_|
 #
-#      R        E        B        O        R        N
+#               __   __                             __         __
+# .---.-.-----.|  |_|__|.-----.-----.-----.---.-.--|  |.-----.|__|.----.-----.
+# |  _  |     ||   _|  ||  _  |  _  |  _  |  _  |  _  ||__ --| __ |   _|  -__|
+# |___._|__|__||____|__||   __|_____|   __|___._|_____||_____||__||__| |_____|
+#                       |__|        |__|
+#
 # --------------------------------------------
 #
 # --------------------------------------------
 # P A C K  D E T A I L S
 # --------------------------------------------
-# Title: antipopads! - reborn
+# Title: antipopads:re
 # Maintainer: Ador <mail@nayemador.com>
-# Description: block pesky pop ads.
-# Homepage: https://github.com/AdroitAdorKhan/antipopads
+# Description: block pesky malicious pop ads.
+# Homepage: https://github.com/AdroitAdorKhan/antipopads-re
 # License: MIT
 # Format: domains
 # Version: 21.09.267
 # Release: 267
 # Entries: 6,201
-# Updated: Fri, 24 Sep 21 12:51:47 +06
-# RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads/master/formats/hosts
+# Updated: Fri, 24 Sep 21 14:16:24 +06
+# RAW: https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts
 # --------------------------------------------
 #
 # --------------------------------------------
